@@ -44,7 +44,7 @@ This class is suggested for current and future readers, writers, critics, and re
 + republication history of Robinson Crusoe
 + close reading the novel (handout and discussion in class)
 + Writing Assignment #1 due; Writing Assignment #2 assigned
-+ Text Exercise #1 assigned
++ [Text Exercise #1](https://colab.research.google.com/drive/1sHrxpVko7w8eE1aJ0-ylP0QTiUgSjj2D?usp=sharing) assigned
 
 ##### September 13
 + *Robinson Crusoe*, continued
