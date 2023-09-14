@@ -48,21 +48,21 @@ This class is suggested for current and future readers, writers, critics, and re
 
 ##### September 13
 + *Robinson Crusoe*, continued
-+ selection from Ian Watt, *The Rise of the Novel*
 + strategies for reading criticism (handout and discussion)
 + sentences
 + http://www.harkavagrant.com/index.php?id=286
 
 ##### September 15
 + *Robinson Crusoe* continued (possibly also begin reading *Pamela*)
-+ Catherine Gallagher,  "The Rise of Fictionality," pp. 336-349, 361
++ selection from Ian Watt, *The Rise of the Novel*
 + excerpt from Ted Underwood, David Bamman, and Sabrina Lee "The Transformation of Gender in English-Language Fiction" (in class)
 
 ### Week 3: *Pamela* (1740)
 
 ##### September 18
 + *Pamela*, 11-131; 187-212; 230-238
-+ Writing Assignment #2 due
++ Catherine Gallagher,  "The Rise of Fictionality," pp. 336-349, 361
++ Writing Assignment #2 due (by midnight)
 
 ##### September 20
 + *Pamela* chapter summary (pdf)
