@@ -79,7 +79,7 @@ Challenge: Think about one of the core arguments Catherine Gallagher makes in *T
 
 ### Write
 
-Write a paragraph or two on some particularly interesting and suggestive findings from your work in steps 2-6 - the more specific the better. Positive or negative results can be good  findings. Feel free also to share any thoughts about the value and/or difficulty of this type of lightweight text analysis work. Post to it to Wordpress.
+Write a paragraph or two on some particularly interesting and suggestive findings from your work in steps 2-6 - the more specific the better. Positive or negative results can be good  findings. Feel free also to share any thoughts about the value and/or difficulty of this type of lightweight text analysis work. Post to it to your Text Exercise google doc.
 
 ### More (optional and for the future)
 
