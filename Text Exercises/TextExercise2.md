@@ -26,7 +26,7 @@ For additional instructions, here is the [Voyant documentation](https://voyant-t
 
 #### Step 1
 
-Go to http://voyant-tools.org/ and upload the clean copy of *Pamela* you can find on Github and in our "Exercise Materials" Dropbox folder. (Note that the plain-text copy of *Pamela* we are using is drawn from [this](http://www.gutenberg.org/cache/epub/6124/pg6124.txt) Project Gutenberg text. Take a quick look at it - what edition does it seem to be based on? We will tackle questions to do with text preparation and cleaning in a future assignment, but it's worth giving them a thought now.)
+Go to http://voyant-tools.org/ and upload the clean copy of *Pamela* you can find on Github and in our "Excercise Supplementary Materials" Dropbox folder. (Note that the plain-text copy of *Pamela* we are using is drawn from [this](http://www.gutenberg.org/cache/epub/6124/pg6124.txt) Project Gutenberg text. Take a quick look at it - what edition does it seem to be based on? We will tackle questions to do with text preparation and cleaning in a future assignment, but it's worth giving them a thought now.)
 
 When you have uploaded, press "reveal" and a new window will open. Note that if you mouse over the right-hand corner of the blue bar at the top of the page and click the arrow icon, it will give you a url that will save this state of Voyant for you to return to.
 
@@ -79,7 +79,7 @@ Challenge: Think about one of the core arguments Catherine Gallagher makes in *T
 
 ### Write
 
-Write a paragraph or two on some particularly interesting and suggestive findings from your work in steps 2-6 - the more specific the better. Positive or negative results can be good  findings. Feel free also to share any thoughts about the value and/or difficulty of this type of lightweight text analysis work. Post to it to your Text Exercise google doc.
+Write a paragraph or two on some particularly interesting and suggestive findings from your work in steps 2-6 - the more specific the better. Positive or negative results can be good  findings. Feel free also to share any thoughts about the value and/or difficulty of this type of lightweight text analysis work. Post to it to Wordpress.
 
 ### More (optional and for the future)
 
