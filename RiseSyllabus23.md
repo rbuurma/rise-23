@@ -91,11 +91,11 @@ This class is suggested for current and future readers, writers, critics, and re
 + finish discussion of *Shamela*
 + *Evelina*, 1-200
 + McKeon, "Generic Transformation and Social Change"
-+ Writing Assignment #3 due
 
 ##### October 4
 + *Evelina*, 200-250
 + talk about *Tristram Shandy* (in class)
++ Writing Assignment #3 due BY WORKSHOP TIME (to Writing Portfolio + five copies)
 + Text Exercise #3 due; Text Exercise #4 assigned
 + Generative AI, GPT-4 and large language models
 
