@@ -102,20 +102,19 @@ This class is suggested for current and future readers, writers, critics, and re
 ##### October 6
 + *Evelina*, 250-300
 + Dorrit Cohn + free indirect discourse handout
-+ Ignatious Sancho letters, short excerpt
-+ [Ignatious Sancho digital map and brief biography](https://storymaps.arcgis.com/stories/4ef3af4d2c944f8f8d5b583a8423431e)
 
 ### Week 6: *Evelina* (1778) continued
 
 ##### October 9
 +  Evelina, 300-450
-+  Writing Assignment #3 revision due; Writing Assignment #4 assigned
-+  Tim Lee and Sean Trott, [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
-+  Optional but recommended: [Stephen Wolfram, What is CHATGPT Doing...and Why Does It Work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
++  Ignatious Sancho letters, short excerpt
++ [Ignatious Sancho digital map and brief biography](https://storymaps.arcgis.com/stories/4ef3af4d2c944f8f8d5b583a8423431e)
 
 ##### October 11
 + Evelina, continued
-+ transitions
++ Writing Assignment #3 revision due; Writing Assignment #4 assigned
++ Tim Lee and Sean Trott, [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
++  Optional but recommended: [Stephen Wolfram, What is CHATGPT Doing...and Why Does It Work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + Text Exercise #4 due; Text Exercise #5 assigned
 
 ##### October 13
