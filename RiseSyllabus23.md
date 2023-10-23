@@ -136,7 +136,6 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### October 25
 + *Northanger Abbey* and *The Woman of Color*, continued
-+ Benedict Anderson, from *Imagined Communities*
 + reminder of Dorrit Cohn handout on narrated monologue and free indirect discourse
 
 ##### October 27 - Professor Buurma away at MSA conference
@@ -151,11 +150,10 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 1
 + *The Moonstone*, continued
 + titles
-+ Michel Foucault, from *Discipline and Punish*, 195-228 (can skim first chapter included on pdf if you want to)
-+ D.A. Miller, from *The Novel and the Police* (chapter 2, 41-45, 52-57)
 
 ##### November 3
 + *The Moonstone*, continued
++ Benedict Anderson, from *Imagined Communities*
 
 ### Week 10: *The Moonstone*, second half
 
@@ -165,12 +163,14 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 8
 + *The Moonstone*, continued
-+ Edward Said, from *Orientalism*
++ Edward Said, from *Orientalism* (in class)
 + Gretchen Gerzina, from *Black Victorians, Black Victoriana* (in class)
 
 ##### November 11
 + *The Moonstone*, continued
-+ Roland Barthes, "The Reality Effect"
++ Michel Foucault, from *Discipline and Punish*, 195-228 (can skim first chapter included on pdf if you want to)
++ D.A. Miller, from *The Novel and the Police* (chapter 2, 41-45, 52-57)
+
 
 ### Week 11: Henry James, *Daisy Miller*
 
@@ -180,11 +180,10 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 15
 + *Daisy Miller*, continued
-+ Kate Crawford, from *Atlas of AI*
 
 ##### November 17
 + *Daisy Miller*, continued
-+ Jameson, "The Realist Floor-plan"
++ Roland Barthes, "The Reality Effect"
 
 ### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
 
@@ -194,7 +193,8 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 22
 + *To The Lighthouse*, continued
-+ Ted Underwood, "Mapping the Latent Space of Culture"
++ Jameson, "The Realist Floor-plan"
++ Ted Underwood, "Mapping the Latent Space of Culture" (in class)
 
 ##### November 24 - THANKSGIVING - no class
 
