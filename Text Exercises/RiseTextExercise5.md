@@ -82,7 +82,7 @@ Before we run the program, let's let's take a quick look at it.
 
 1. Download the our corpus and code, [Rise18-Assignment8-master corpus and and code](https://github.com/rbuurma/Rise18-Assignment8), by clicking on the green CODE button, selecting the zip file download, and then expanding the zip file by clicking on it once you've downloaded it. Save it somewhere that makes sense to you.
 
-2. If you haven't already installed [the Atom code editor](https://atom.io/), do so now.
+2. If you haven't already installed the [Visual Studio Code editor](https://code.visualstudio.com/), do so now. 
 
 3. In the "bin" folder within Rise18=Assignment8-master you will see several versions of the code, the textinfo.py version version written by Professor Wicentowski, and other versions written by various students from Professor Wicentowski's Fall 2017 CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py, and Rise 2017's own Hannah Kloetzer textinfo_hk.py.
 
