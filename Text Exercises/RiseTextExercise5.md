@@ -86,7 +86,7 @@ Before we run the program, let's let's take a quick look at it.
 
 3. In the "bin" folder within Rise18=Assignment8-master you will see several versions of the code, the textinfo.py version version written by Professor Wicentowski, and other versions written by various students from Professor Wicentowski's Fall 2017 CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py, and Rise 2017's own Hannah Kloetzer textinfo_hk.py.
 
-Open textinfo.py with Atom so that you can VIEW (not yet run) the code and take at least a brief look. This step is just to give you the sense of how to open the file and what it looks like.
+Open textinfo.py with the Visual Studio Code editor so that you can VIEW (not yet run) the code and take at least a brief look. This step is just to give you the sense of how to open the file and what it looks like.
 
 Each version of the code will do more or less the same thing. There are, however, some slight differences. *Therefore we highly recommend running textinfo.py as well as one or more of the other versions; watch for the slightly different outputs, and prepare to consider what has caused the differences.*
 
