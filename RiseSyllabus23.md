@@ -159,7 +159,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 6
 + *The Moonstone*, second half
-+ Writing Assignment #5 due
++ Writing Assignment #5 due Tuesday, Nov 7th at midnight
 
 ##### November 8
 + *The Moonstone*, continued
