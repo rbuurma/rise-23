@@ -145,7 +145,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### October 30
 + *The Moonstone*, first half
-+ Writing Assignment #4 revision due; Writing Assignment #5 assigned
++ Writing Assignment #4 revision due (Tuesday midnight); Writing Assignment #5 assigned
 
 ##### November 1
 + *The Moonstone*, continued
@@ -159,7 +159,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 6
 + *The Moonstone*, second half
-+ Writing Assignment #5 due Tuesday, Nov 7th at midnight
++ Writing Assignment #5 due Tuesday, Nov 7 at midnight
 
 ##### November 8
 + *The Moonstone*, continued
@@ -171,15 +171,15 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + Michel Foucault, from *Discipline and Punish*, 195-228 (can skim first chapter included on pdf if you want to)
 + D.A. Miller, from *The Novel and the Police* (chapter 2, 41-45, 52-57)
 
-
 ### Week 11: Henry James, *Daisy Miller*
 
 ##### November 13
 + *Daisy Miller*, all
-+ Writing Assignment #5 revision due; Writing Assignment #6 assigned
++ Writing Assignment #5 revision due THURSDAY midnight; OPTIONAL Writing Assignment #6 assigned
 
 ##### November 15
 + *Daisy Miller*, continued
++ Writing Assignment #7 (final paper) assigned
 
 ##### November 17
 + *Daisy Miller*, continued
@@ -189,7 +189,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 20
 + *To The Lighthouse*, 3-125
-+ Writing Assignment #6 due; Writing Assignment #7 (final paper) assigned
++ OPTIONAL Writing Assignment #6 due
 
 ##### November 22
 + *To The Lighthouse*, continued
@@ -210,6 +210,8 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### December 1
 +  *Winter in the Blood*, xx-xxx including Louise Erdrich's introduction.
+
+***final paper/project proposal due Sunday, Dec 4 by midnight***
 
 ### Week 14: James Welch, *Winter in the Blood* (1974)
 
