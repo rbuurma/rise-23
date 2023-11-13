@@ -175,7 +175,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 13
 + *Daisy Miller*, all
-+ Writing Assignment #5 revision due THURSDAY midnight; OPTIONAL Writing Assignment #6 assigned
++ Writing Assignment #5 revision due SUNDAY midnight; OPTIONAL Writing Assignment #6 assigned
 
 ##### November 15
 + *Daisy Miller*, continued
