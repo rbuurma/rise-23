@@ -189,7 +189,6 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 20
 + *To The Lighthouse*, 3-125
-+ OPTIONAL Writing Assignment #6 due
 
 ##### November 22
 + *To The Lighthouse*, continued
@@ -207,6 +206,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 29
 + *Winter in the Blood*, x-xx
++ + OPTIONAL Writing Assignment #6 due
 
 ##### December 1
 +  *Winter in the Blood*, xx-xxx including Louise Erdrich's introduction.
