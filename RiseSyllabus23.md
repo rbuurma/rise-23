@@ -202,26 +202,24 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 27
 + *To The Lighthouse*, 125-209
 + Erich Auerbach, "The Brown Stocking" from *Mimesis*
-+ Discuss criticism exam
 
 ##### November 29
-+ *Winter in the Blood*, x-xx
-+ + OPTIONAL Writing Assignment #6 due
++ +  *Winter in the Blood*, 1-45 and Louise Erdrich's introduction
 
 ##### December 1
 +  *Winter in the Blood*, xx-xxx including Louise Erdrich's introduction.
++  Discuss criticism exam
 
-***final paper/project proposal due Sunday, Dec 4 by midnight***
+***final paper/project proposal due Sunday, Dec 3 by midnight***
 
 ### Week 14: James Welch, *Winter in the Blood* (1974)
 
 ##### December 4
 + *Winter in the Blood*, finish
-+ one last very short LLM reading TBA
 
 ##### December 6
 + *Winter in the Blood*, continued
-+ Writing Assignment #6 revison due
++ optional Writing Assignment #6 due
 
 ##### December 8
 + *Winter in the Blood*, continued
