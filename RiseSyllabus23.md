@@ -203,11 +203,10 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + *To The Lighthouse*, 125-209
 
 ##### November 29
-+ *Winter in the Blood*, 1-45 and Louise Erdrich's introduction
 + Erich Auerbach, "The Brown Stocking" from *Mimesis*
 
 ##### December 1
-+  *Winter in the Blood*, xx-xxx including Louise Erdrich's introduction.
++  *Winter in the Blood*, 1-45, including Louise Erdrich's introduction.
 +  Discuss criticism exam
 
 ***final paper/project proposal due Sunday, Dec 3 by midnight***
