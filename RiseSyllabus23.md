@@ -209,7 +209,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 +  *Winter in the Blood*, 1-45, including Louise Erdrich's introduction.
 +  Discuss criticism exam
 
-***final paper/project proposal due Sunday, Dec 3 by midnight***
+***final paper/project proposal due Monday, Dec 3 by midnight***
 
 ### Week 14: James Welch, *Winter in the Blood* (1974)
 
